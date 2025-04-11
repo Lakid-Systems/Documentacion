@@ -14,16 +14,3 @@ El propósito de esta carpeta es automatizar el proceso de introducción de dato
 - **Automatización de carga de información**: Los scripts pueden ser ejecutados para insertar información relevante o actualizar los registros en la base de datos.
 - **Facilita el desarrollo**: Al tener datos de prueba listos, los desarrolladores pueden centrarse en la implementación sin preocuparse por la generación manual de información.
 
-##  Integrantes del Equipo
-
-| Integrante                        | Git                  | Observaciones             |
-| --------------------------------- | -------------------- | ------------------------- |
-| Luis Ivan Marquez Azuara          | @Luisivmaraz         | ✅ Revisado y Aprobado    |
-| Brayn Kalid Reyes Silva           | @KalidRs             | ❌ Sin Observaciones      |
-| Aldo Tolentino Domingo            | @Aldotd12            | ❌ Sin Observaciones      |
-| Angel David Reyes Téllez          | @AngelR003           | ❌ Sin Observaciones      |
-| Irving Morales Domínguez          | @IrvingMordo26       | ❌ Sin Observaciones      |
-
----
-
-**Hecho por:**  [Luis Ivan Marquez](https://github.com/luisivmaraz) -- 220401 -- 8A IDGS
